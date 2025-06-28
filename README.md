@@ -2,12 +2,12 @@
 ## About me
 
     # me.py
-  print("Nickname: OM, OHM (Thai name)")
-  print("You can also call me: OM (I don't have an English name)")
-  print("Age: ???")
-  print("Gender: Male")
-  print("Height: More than 100 cm")
-  print("Hobbies: Walking the world (Technology... not travel)")
+    print("Nickname: OM, OHM (Thai name)")
+    print("You can also call me: OM (I don't have an English name)")
+    print("Age: ???")
+    print("Gender: Male")
+    print("Height: More than 100 cm")
+    print("Hobbies: Walking the world (Technology... not travel)")
 
         
 ## 💻 My Knowledge
