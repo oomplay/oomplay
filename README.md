@@ -1,13 +1,14 @@
 # Hello all 👋
 ## About me
 
-    #me.py
-    print(f"Nickname: OM , OHM (Thai name....)")
-    print(f"Also can call me: OM .....I dont have english name.......")
-    print(f"Age: ???...")
-    print(f"Gender: Male...")
-    print(f"Height: More thane 100 cm...")
-    print("Hobbies: Walking the World (Technology....Not travel)")
+    # me.py
+  print("Nickname: OM, OHM (Thai name)")
+  print("You can also call me: OM (I don't have an English name)")
+  print("Age: ???")
+  print("Gender: Male")
+  print("Height: More than 100 cm")
+  print("Hobbies: Walking the world (Technology... not travel)")
+
         
 ## 💻 My Knowledge
 
