@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oomplay&layout=compact&langs_count=100&hide_progress=false&title_color=0066ff&text_color=333333&bg_color=50,ff8552,f7a541,ffd153,d9f23c,eaf768,99e265,4ec4e7,9278ff&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oomplay&layout=compact&langs_count=100&hide_progress=false&title_color=000000&text_color=333333&bg_color=ffffff,ececec&hide_border=true)
